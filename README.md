@@ -1,4 +1,4 @@
-# Cours LOG530 : Réalisation et maintenance du logiciel
+# Cours MGL804 : Réalisation et maintenance du logiciel
 
 ### Hiver 2021
 
