@@ -33,7 +33,7 @@ Vous êtes encouragés à débuter votre recherche par consulter les forums de d
 
 Ensuite, procédez avec quelques références reliées à votre projet (n’hésitez pas à me contacter pour obtenir quelques suggestions). Des ressources comme et [Google Scholar](https://scholar.google.ca/), [Scopus](www.scopus.com), [Engineering Village](https://www.engineeringvillage.com), [SpringerLink](https://link.springer.com/), [IEEE Xplore](https://ieeexplore.ieee.org/Xplore/home.jsp), [ACM Digital Library](https://dl.acm.org/) peuvent vous aider à identifier de références sont pertinentes. Vous pourrez donc facilement et rapidement explorer la chaîne de citations à partir de ces quelques articles initiaux. 
 
-**NB.** Utiliser votre compte étudiant à l'ÉTS pour accéder à toutes ces libraries. Vous pouvez y accéder à l'exérieur de l'ETS via [Accès hors campus](https://www.etsmtl.ca/bibliotheque/infos-generales/renseignements-utiles/acces-hors-campus).
+**NB.** Utilisez votre compte étudiant à l'ÉTS pour accéder à toutes ces libraries. Vous pouvez y accéder à l'exérieur de l'ETS via [Accès hors campus](https://www.etsmtl.ca/bibliotheque/infos-generales/renseignements-utiles/acces-hors-campus).
 
 -	Les conférences les plus importantes dans le domaine de génie logiciel sont :
 	-	ICSE : International Conference on Software Engineering
