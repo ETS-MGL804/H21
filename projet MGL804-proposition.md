@@ -5,6 +5,12 @@
 
 #### Table des matières
 1. [Description du projet](#description)
+	-	[Introduction et motivation](#intro)
+	-	[Background et travaux connexes](#background)
+	-	[Description du problème](#probleme)
+	-	[Approche proposée](#approche)
+	-	[Évaluation](#evaluation)
+	-	[Échéancier](@echeancier)
 2. [Conditions de réalisation](#conditions)
 3. [Aide et discussions](#discussion)
 4. [Remise](#remise)
@@ -16,13 +22,33 @@ Les projets visent à résoudre sur un problème spécifique relié à la mainte
 
 Chaque étudiant inscrit au cours devra compléter une proposition de projet qui doit inclure les sections suivantes :
 
--	Introduction et motivation : Décrivez ici décrire le problème général et indiquer pourquoi ce problème est intéressant à résoudre. Cette section doit être rédigée afin qu’un lecteur familier avec la compilation et l’analyse mais non expert dans votre domaine précis puisse facilement comprendre le texte.
--	Background et travaux connexes : Décrivez les concepts fondamentaux nécessaires à la réalisation de votre projet. Décrivez aussi brièvement les approches précédentes au problème décrit. Incluez des citations aux références pertinentes. NB: cette section fera l’objet d’un autre document plus complet et approfondi.
--	Description du problème : Décrivez le plus précisément possible le problème à résoudre. Tentez de sous-diviser un problème complexe en sous-problèmes bien circonscrits. Une description précise du problème est essentielle pour mener à terme votre projet.
--	Approche proposée : Décrivez votre solution au problème. Il n’est pas nécessaire d’avoir préalablement défini tous les détails de la solution, mais vous devez avoir une idée globale et plausible de l’approche à suivre.
--	Évaluation : Décrivez comment vous allez évaluer votre solution. Quelles expériences allez-vous effectuer ? Quels programmes allez-vous utiliser pour votre évaluation ? Quelles données allez-vous recueillir ? Comment allez-vous présenter et analyser ces données ?
--	Résultats attendus : Décrivez comment les résultats des expériences seront interprétés. Quels résultats seront considérés positifs ? Quels résultats sont les plus probables ?
--	Échéancier : Développez un échéancier pour les tâches nécessaires pour atteindre votre objectif. Indiquez le travail qui a déjà été effectué et le travail à venir. Soyez réaliste, il faut souvent inclure le temps nécessaire à comprendre du code existant ou formater/nettoyer des données, par exemple.
+<a name="intro"></a>
+##### Introduction et motivation
+Décrivez ici décrire le problème général et indiquer pourquoi ce problème est intéressant à résoudre. Cette section doit être rédigée afin qu’un lecteur familier avec la compilation et l’analyse mais non expert dans votre domaine précis puisse facilement comprendre le texte.
+
+<a name="background"></a>
+##### Background et travaux connexes
+Décrivez les concepts fondamentaux nécessaires à la réalisation de votre projet. Décrivez aussi brièvement les approches précédentes au problème décrit. Incluez des citations aux références pertinentes. NB: cette section fera l’objet d’un autre document plus complet et approfondi.
+
+<a name="probleme"></a>
+##### Description du problème
+Décrivez le plus précisément possible le problème à résoudre. Tentez de sous-diviser un problème complexe en sous-problèmes bien circonscrits. Une description précise du problème est essentielle pour mener à terme votre projet.
+
+<a name="approche"></a>
+##### Approche proposée
+Décrivez votre solution au problème. Il n’est pas nécessaire d’avoir préalablement défini tous les détails de la solution, mais vous devez avoir une idée globale et plausible de l’approche à suivre.
+
+<a name="evaluation"></a>
+##### Évaluation
+Décrivez comment vous allez évaluer votre solution. Quelles expériences allez-vous effectuer ? Quels programmes allez-vous utiliser pour votre évaluation ? Quelles données allez-vous recueillir ? Comment allez-vous présenter et analyser ces données ?
+
+<a name="resultat"></a>
+##### Résultats attendus
+Décrivez comment les résultats des expériences seront interprétés. Quels résultats seront considérés positifs ? Quels résultats sont les plus probables ?
+
+<a name="echeancier"></a>
+#####	Échéancier
+Développez un échéancier pour les tâches nécessaires pour atteindre votre objectif. Indiquez le travail qui a déjà été effectué et le travail à venir. Soyez réaliste, il faut souvent inclure le temps nécessaire à comprendre du code existant ou formater/nettoyer des données, par exemple.
 
 
 
