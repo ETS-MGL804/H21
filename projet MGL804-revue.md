@@ -61,7 +61,7 @@ Ensuite, procédez avec quelques références reliées à votre projet (n’hés
 	-	…
 
 
-
+**NB.** Pour votre revue de littérature, pour pouvez vous inspirer (ou imiter) des sections "Related work" tels que dans les lectures des articles (en particulier pour le niveau de détails et de synthése à fournir: **soyez brefs, précis et concis**).
 
 
 <a name="conditions"></a>
