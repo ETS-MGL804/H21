@@ -24,7 +24,10 @@ Tentez d’organiser les références de façon cohérente. Comparez et contrast
 
 <a name="evaluation"></a>
 ### 2. Évaluation
-Votre revue de littérature sera évaluée en fonction de sa pertinence et complétude (identification des références importantes, information complète pour le probléme étudié), de la qualité des explications, et de la qualité de la synthèse.
+Votre revue de littérature sera évaluée en fonction de :
+- Sa pertinence et complétude (identification des références importantes, information complète pour le probléme étudié),
+- La qualité des explications,
+- La qualité de la synthèse.
 
 <a name="conseils"></a>
 ### 3. Conseils
