@@ -14,13 +14,13 @@
 
 <a name="description"></a>
 ### 1. Description
-Vous devrez effectuer une revue de littérature reliée à votre projet. Par exemple, vous devrez identifier les articles qui s’attaquent au même problème que le vôtre, qui présentent des solutions complémentaires, qui présentent des solutions utilisées par votre projet, etc. La revue de littérature devra présenter une synthèse des articles de recherche reliés à votre projet. Pour chaque papier identifié, indiquez :
--	Comment le papier est relié à votre projet et comment votre solution se démarque de celle proposée par le papier, si applicable.
+Vous devrez effectuer une revue de littérature reliée à votre projet. Par exemple, vous devrez identifier les articles scientifiques et/ou les discussions sur les forums Q&A (par exemple, [Stack Overflow](https://stackoverflow.com/)) qui (1) s’attaquent au même problème que le vôtre, (2) présentent des solutions complémentaires, et/ou (3) présentent des solutions utilisées par votre projet, etc. La revue de littérature devra présenter une synthèse des articles de recherche reliés à votre projet. Pour chaque référence identifié, indiquez :
+-	Comment la référence est reliée à votre projet et comment votre solution se démarque de celle proposée par la référence, si applicable.
 -	Les points importants de la solution proposée par les auteurs.
 -	Les forces et faiblesses de la solution présentée et/ou de la méthodologie.
 -	Le degré de succès obtenu (est-ce que la solution fonctionne?).
 
-Tentez d’organiser les articles de façon cohérente. Comparez et contrastez les papiers lorsqu’approprié. Il est souvent utile d’utiliser un tableau pour organiser un ensemble de papiers selon certains critères. Sous-divisez aussi la revue de littérature par sujet lorsque possible (par exemple, discutez des papiers qui s’adressent au même problème que le vôtre dans une section, puis ceux qui utilisent la même technique que votre projet dans une autre section). Lorsque des papiers sont étroitement reliés, vous pouvez les combiner en un seul groupe et les présenter collectivement (par exemple, présentez un papier et ses extensions dans un seul paragraphe).
+Tentez d’organiser les références de façon cohérente. Comparez et contrastez les références lorsqu’approprié. Il est souvent utile d’utiliser un tableau pour organiser un ensemble des références selon certains critères. Sous-divisez aussi la revue de littérature par sujet lorsque possible (par exemple, discutez des références qui s’adressent au même problème que le vôtre dans une section, puis ceux qui utilisent la même technique que votre projet dans une autre section). Lorsque des articles sont étroitement reliés, vous pouvez les combiner en un seul groupe et les présenter collectivement (par exemple, présentez un article et ses extensions dans un seul paragraphe).
 
 <a name="evaluation"></a>
 ### 2. Évaluation
@@ -29,7 +29,7 @@ Votre revue de littérature sera évaluée en fonction de sa pertinence et compl
 <a name="conseils"></a>
 ### 3. Conseils
 
-Vous êtes encouragés à débuter votre recherche par consulter les forums de discussions dédiées aux développeurs tels que [Stack Overflow](https://stackoverflow.com/), etc., et apprendre plus sur des discussions des développeurs par rapports aux défis, problémes et solutions reliés à votre projets.
+Vous êtes encouragés à débuter votre revue par une recherche dans les forums de discussions dédiées aux développeurs tels que [Stack Overflow](https://stackoverflow.com/), etc., et apprendre plus sur des discussions des développeurs par rapports aux défis, problémes et solutions reliés à votre projets.
 
 Ensuite, procédez avec quelques références reliées à votre projet (n’hésitez pas à me contacter pour obtenir quelques suggestions). Des ressources comme et [Google Scholar](https://scholar.google.ca/), [Scopus](www.scopus.com), [Engineering Village](https://www.engineeringvillage.com), [SpringerLink](https://link.springer.com/), [IEEE Xplore](https://ieeexplore.ieee.org/Xplore/home.jsp), [ACM Digital Library](https://dl.acm.org/) peuvent vous aider à identifier de références sont pertinentes. Vous pourrez donc facilement et rapidement explorer la chaîne de citations à partir de ces quelques articles initiaux. 
 
