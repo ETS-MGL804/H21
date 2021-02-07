@@ -53,15 +53,14 @@ Ensuite, procédez avec quelques références reliées à votre projet (n’hés
 	-	…
 
 - Les journaux les plus importantes dans le domaine de génie logiciel sont :
-	-	TSE : IEEE Transactions on Software Engineering
-	-	TOSEM : ACM Transactions on Software Engineering and Methodologies
-	-	SoSyM : Software & Systems Modeling
-	-	JSS : Journal of Systems and Software
-	-	ASE : Journal of Automated Software Engineering
-	-	IST : Information and Software Technology Journal
-	-	JSEP : Journal of Software: Evolution and Process
-	-	EMSE : Empirical Software Engineering
-	-	SQJ : Software Quality Journal
+	-	[TSE : IEEE Transactions on Software Engineering](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=32)
+	-	[TOSEM : ACM Transactions on Software Engineering and Methodologies](https://dl.acm.org/journal/tosem)
+	-	[JSS : Journal of Systems and Software](https://www.journals.elsevier.com/journal-of-systems-and-software)
+	-	[ASE : Journal of Automated Software Engineering](https://www.springer.com/journal/10515)
+	-	[IST : Information and Software Technology Journal](https://www.journals.elsevier.com/information-and-software-technology)
+	-	[JSEP : Journal of Software: Evolution and Process](https://onlinelibrary.wiley.com/journal/20477481)
+	-	[EMSE : Empirical Software Engineering](https://www.springer.com/journal/10664)
+	-	[SQJ : Software Quality Journal](https://www.springer.com/journal/11219)
 	-	…
 
 
