@@ -64,7 +64,7 @@ Ensuite, procédez avec quelques références reliées à votre projet (n’hés
 	-	…
 
 
-**NB.** Pour votre revue de littérature, vous pouvez vous inspirer (ou imiter) des sections "Related work" tels que dans les lectures des articles (en particulier pour le niveau de détails et de synthése à fournir: **soyez brefs, précis et concis**). Soyez de haut niveau avec une attitude critique et prendre un recul.
+**NB.** Pour votre revue de littérature, vous pouvez vous inspirer (ou imiter) des sections "Related work" tels que dans les lectures des articles (en particulier pour le niveau de détails et de synthése à fournir: **soyez brefs, précis et concis**). Soyez de haut niveau avec une attitude critique en prenant un recul.
 
 
 <a name="conditions"></a>
