@@ -46,6 +46,7 @@ Ensuite, procédez avec quelques références reliées à votre projet (n’hés
 	-	ICSME : International Conference on Software Maintenance and Evolution
 	-	SANER : International Conference on Software Analysis, Evolution and Reengineering
 	-	ICSA : International Conference on Software Architecture
+	-	MSR : International Conference on Mining Software Repositories
 	-	APSEC : Asia-Pacific Software Engineering Conference
 	-	MOBILESoft : International Conference on Mobile Software Engineering and Systems
 	-	GECCO, SBSE Track : Genetic and Evolutionary Computation Conference
