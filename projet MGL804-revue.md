@@ -32,7 +32,7 @@ Votre revue de littérature sera évaluée en fonction de :
 <a name="conseils"></a>
 ### 3. Conseils
 
-Vous êtes encouragés à débuter votre revue par une recherche dans les forums de discussions dédiées aux développeurs tels que [Stack Overflow](https://stackoverflow.com/), etc., et apprendre plus sur des discussions des développeurs par rapports aux défis, problémes et solutions reliés à votre projets.
+Vous êtes encouragés à débuter votre revue par une recherche dans les forums de discussions dédiées aux développeurs tels que [Stack Overflow](https://stackoverflow.com/), etc., et sur [google](https://www.google.com/), et apprendre plus sur des discussions des développeurs par rapports aux défis, problémes et solutions reliés à votre projets.
 
 Ensuite, procédez avec quelques références reliées à votre projet (n’hésitez pas à me contacter pour obtenir quelques suggestions). Des ressources comme et [Google Scholar](https://scholar.google.ca/), [Scopus](www.scopus.com), [Engineering Village](https://www.engineeringvillage.com), [SpringerLink](https://link.springer.com/), [IEEE Xplore](https://ieeexplore.ieee.org/Xplore/home.jsp), [ACM Digital Library](https://dl.acm.org/) peuvent vous aider à identifier de références sont pertinentes. Vous pourrez donc facilement et rapidement explorer la chaîne de citations à partir de quelques articles initiaux. 
 
