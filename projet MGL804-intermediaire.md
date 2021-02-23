@@ -57,5 +57,5 @@ Pour faciliter la correction, vous devez nommer vos fichiers de la façon suivan
 
 
 ``
-MGL804H2021-Proposition-CodePermanent1-CodePermanent2-CodePermanent3
+MGL804H2021-EquipeX-CodePermanent1-CodePermanent2-CodePermanent3
 ``
