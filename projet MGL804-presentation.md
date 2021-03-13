@@ -20,7 +20,7 @@ Chaque équipe devra donner une courte présentation du travail fait lors du pro
 
 Les règlements pour les présentations sont les suivants :
 
-- Tous les membres de l’équipe doivent obligatoirement être présents et participer à la présentation de leur équipe (via la plateforme zoom). Chaque membre de l’équipe doit présenter sa contribution individuelle au projet. Dans le cas où plusieurs équipiers auraient participé à la réalisation d’un même composant ou même tâche du projet, ils peuvent diviser la tâche de les présenter comme bon leur semble, à condition qu’ils se divisent le travail de façon égale.
+- Tous les membres de l’équipe doivent obligatoirement être présents et participer à la présentation de leur équipe (via la plateforme zoom). Chaque membre de l’équipe doit présenter sa contribution individuelle au projet. Dans le cas où plusieurs équipiers auraient participé à la réalisation d’un même composant ou même tâche du projet, ils peuvent diviser la tâche ou la présenter comme bon leur semble, à condition qu’ils se divisent le travail de façon égale.
 - Les présentations seront d’une durée de **15 minutes** par équipe. Les présentations qui excèdent cette durée seront interrompues avant la fin. Chaque présentation sera suivie d’une courte période de questions.
 - Vous devez présenter le problème que votre projet tente de résoudre, votre solution ainsi que son évaluation. Présentez votre sujet en supposant que votre audience ne connaît rien à votre projet et ses objectifs, mais est familière avec les sujets abordés dans le cours.
 - L’**objectif principal** de la présentation est de partager votre expérience durant la réalisation de ce projet avec vos collègues.
